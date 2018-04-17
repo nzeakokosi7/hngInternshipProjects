@@ -1,0 +1,51 @@
+/* body */
+.body {margin: 0; height: 100%; overflow: hidden}
+
+/* 11:20 */
+.tm{
+position: absolute;
+width: 511px;
+height: 82px;
+left: 930px;
+top: 512px;
+
+font-family: Roboto Condensed;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 48px;
+
+color: #D2E2F7
+}
+
+/* SPACE-TIME CONTINIUM */
+.sptx{
+position: absolute;
+width: 838px;
+height: 111px;
+left: 98px;
+top: 43px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 48px;
+
+color: #C5EDFA
+}
+
+/* Line */
+.ln{
+position: absolute;
+width: 77.5px;
+height: 35px;
+left: 34px;
+top: 44.5px;
+}
+
+/* spaceTime */
+.bg{
+margin: 0; overflow: hidden;
+background: url(spaceTime.jpg);
+}
